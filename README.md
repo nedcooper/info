@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nedcpr
-- 👀 I’m interested in cybernetics and deep learning.
+- 👀 I’m interested in machine learning and Human-Computer interaction.
 - 🌱 I’m currently studying a PhD at the Australian National University.
 - 📫 How to reach me: nedcpr (at) gmail (dot) com
 
